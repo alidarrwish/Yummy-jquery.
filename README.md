@@ -1,2 +1,2 @@
 # Yummy-jquery
-https://gamgom29.github.io/Yummy-jquery/
+https://alidarrwish.github.io/Yummy-jquery/
